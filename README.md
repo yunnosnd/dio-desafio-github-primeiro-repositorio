@@ -1,4 +1,4 @@
-# Repositório DIO sobre Git/GitHub<br>
+# Repositório DIO<br>
 Criado para o desafio de projeto sobre Git/GitHub<br>
 
 ## **Sumário**<br>
