@@ -12,3 +12,8 @@ Iniciado em 18/04/2023.
 *Aulas e exercícios sobre: funções. Realizados em 19/04/2023*<br>
 *Certificado de conclusão*<br>
 <br>
+
+**Criandoo Objetos e Classes em JS** <br>
+*Aulas e exercícios sobre: conceito base de objetos e classes. Realizados em 19/04/2023 e 20/04/2023*<br>
+*Certificado de conclusão*<br>/
+<br>
