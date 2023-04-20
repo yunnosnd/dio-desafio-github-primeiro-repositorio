@@ -9,6 +9,6 @@ Iniciado em 18/04/2023.
 <br>
 
 **Conhecendo Funções JavaScript** <br>
-*Aulas e exercícios sobre: funções. Realizados em*<br>
+*Aulas e exercícios sobre: funções. Realizados em 19/04/2023*<br>
 *Certificado de conclusão*<br>
 <br>
